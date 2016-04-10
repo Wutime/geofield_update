@@ -5,7 +5,6 @@ dependencies[] = geophp (>=1.7)
 dependencies[] = geofield (>=2.3)
 files[] = geofield_update.module
 files[] = geofield_update.install
-files[] = geofield_update.class.inc
 files[] = geofield_update.admin.inc
 ; Information added by Drupal.org packaging script on 2014-09-21
 version = "7.x-1.0"
