@@ -1,0 +1,5 @@
+Upload the module and activate it under "modules".
+
+Options can be specified under "cron", as follows: http://www.your-domain.com/admin/config/system/cron/geofield_update
+
+Relative path: /admin/config/system/cron/geofield_update
