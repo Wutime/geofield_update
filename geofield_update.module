@@ -1,7 +1,5 @@
 <?php
 
-require_once (dirname(__FILE__) . '/geofield_update.class.inc');
-
 define('GEOFIELD_UPDATE_PROCESS_PER_CRON', 5);
 
 
